@@ -4,16 +4,23 @@ I'm Sushil Mario.
 
 👯 Looking forward to be part of a talented group of people, adding value by working in a team, and in the process applying and enhancing my skills for the growth of the organization and self.
 
-🔭 I’m currently working on
-    1.	OSCC detection and analysis using Computational Pathology 
-        Collaborative Research Project of Ramaiah Institute of Technology with Ramaiah Dental College | Sept 2021 – Current
-    2.  Scientific Paper on Virtual Machine Placement | Sept 2021 – Current
+🔭 My current professional endeavours
+1. Indian Institute of Science
+    | Research Internship, working on Industry Projects | May 2023 – Current
+    Currently working on two collaborative projects with Harting Co. and TCS, focused on designing a framework of generative design using 
+    knowledge graphs and machine learning to build better recommendation systems.
+    
+2. Exploring the potential use of Quantum Annealing techniques for real-time route optimisation problems
+    | Collaborative Academia-Industry research project facilitated by UNISYS | 2022 - 2023
     
 💬 Key skills
-  •	Front-end Web Development – HTML, CSS, JavaScript, React.js, jQuery, Bootstrap, Semantic UI
-  •	Back-end Web Development - Node.js, Express.js, MongoDB, Mongoose
-  •	Machine Learning and Deep Learning – Python, Scikit-Learn, TensorFlow, Keras
-  •	iOS App Development – Swift, Xcode
+● Languages – Python, JavaScript, Solidity, R, C/C++
+● Front-end technologies – HTML, CSS, React.js, jQuery, Bootstrap, Semantic UI
+● Back-end technologies - Node.js, Express.js, Mongoose.js
+● Database technologies – SQL, MongoDB, Neo4j
+● Machine and Deep Learning – Scikit-Learn, TensorFlow, Keras, spaCy, HuggingFace
+● Web3 App Development - web3.js, Solidity, ganache, truffle.js
+● Parallel Programming - OpenMP and MPI 
   
 📫 How to contact me 
   •	Mail: sushilmario@gmail.com 
