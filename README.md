@@ -31,4 +31,4 @@ I am deeply interested in the scalability of **multi-echelon delivery networks**
 *   **Research Interests:** Logistics Optimization, Multi-Agent Systems, Constrained Optimization.
 
 ---
-*"Optimization is not just about finding the best solution; it's about finding the most resilient one."*
+*"Optimization is not just about finding the best solution; it's about finding the most robust one."*
