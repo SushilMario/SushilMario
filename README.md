@@ -1,42 +1,34 @@
-### Hi there 👋
+# Hi there, I'm Sushil Mario 👋
 
-I'm Sushil Mario.
+I am a Machine Learning Engineer and incoming MS CS student at the **University of Virginia**, specializing in **Operations Research** and **Large Language Model (LLM) Orchestration**. My work focuses on building the mathematical and algorithmic frameworks required for large-scale industrial logistics and real-time optimization.
 
-👯 Looking forward to be part of a talented group of people, adding value by working in a team, and in the process applying and enhancing my skills for the growth of the organization and self.
+---
 
-🔭 My current professional endeavours
-1. Indian Institute of Science
-    | Research Internship, working on Industry Projects | May 2023 – Current
-    Currently working on two collaborative projects with Harting Co. and TCS, focused on designing a framework of generative design using 
-    knowledge graphs and machine learning to build better recommendation systems.
-    
-2. Exploring the potential use of Quantum Annealing techniques for real-time route optimisation problems
-    | Collaborative Academia-Industry research project facilitated by UNISYS | 2022 - 2023
-    
-💬 Key skills
-● Languages – Python, JavaScript, Solidity, R, C/C++
-● Front-end technologies – HTML, CSS, React.js, jQuery, Bootstrap, Semantic UI
-● Back-end technologies - Node.js, Express.js, Mongoose.js
-● Database technologies – SQL, MongoDB, Neo4j
-● Machine and Deep Learning – Scikit-Learn, TensorFlow, Keras, spaCy, HuggingFace
-● Web3 App Development - web3.js, Solidity, ganache, truffle.js
-● Parallel Programming - OpenMP and MPI 
-  
-📫 How to contact me 
-  •	Mail: sushilmario@gmail.com 
-  •	https://www.linkedin.com/in/sushil-mario-96111b193
+### 🔭 Current Research & Professional Focus
 
-<!--
-**SushilMario/SushilMario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*   **UVA (RAISE Lab):** Investigating constrained optimization and stochastic modeling to solve high-density **Industrial Route Planning** and delivery logistical challenges.
+*   **LLM Orchestration:** Developing multi-agent systems using **Microsoft AutoGen** to automate complex data reasoning and SQL synthesis for global retail partners (Sanofi, redBus).
+*   **Knowledge Graphs:** Architecting generative design frameworks using **Neo4j** to bridge the gap between structured industrial data and predictive ML models for industry giants (Harting, TCS).
 
-Here are some ideas to get you started:
+### 🌱 The "Quick Commerce" Mission
+I am deeply interested in the scalability of **multi-echelon delivery networks**. My goal is to develop the optimization frameworks that will support the expansion of high-velocity logistics (Zepto, Swiggy) into emerging Tier-2 and Tier-3 urban markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💬 Technical Toolkit
+
+*   **Core Languages:** Python, SQL, C++, Java
+*   **ML & NLP:** PyTorch, spaCy, HuggingFace, Scikit-learn
+*   **Optimization:** Linear Programming, Operations Research, Graph Theory
+*   **Orchestration & Data:** Microsoft AutoGen, PostgreSQL, Neo4j, MongoDB
+*   **Engineering:** Distributed Systems (OpenMP/MPI)
+
+---
+
+### 📫 Let's Connect
+*   **Email:** [sushilmario@gmail.com](mailto:sushilmario@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/sushil-mario](https://www.linkedin.com/in/sushil-mario)
+*   **Research Interests:** Logistics Optimization, Multi-Agent Systems, Constrained Optimization.
+
+---
+*"Optimization is not just about finding the best solution; it's about finding the most resilient one."*
